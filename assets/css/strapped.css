@@ -1,3 +1,10 @@
-.jumboContainer {
-    float: right;
+#header a:hover {
+    color:#FFF;
+}
+
+#image {
+    background: url('../images/backgroundindex.jpg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    min-height: 500px;
 }
