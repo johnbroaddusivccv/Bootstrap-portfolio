@@ -1,5 +1,6 @@
 body {
     background: #c0c0c0;
+    overflow: hidden;
 }
 #header a:hover {
     color:#FFF;
@@ -16,7 +17,7 @@ body {
     margin-top: -200px;
 }
 
-#imagecontact {
+#imagecontact{
     background: url('../images/indexplace.jpg');
     background-size: 100%;
     background-repeat: no-repeat;
@@ -43,4 +44,20 @@ body {
     border-width: 4px;
     border-color: black;
     
+}
+
+#imageindex {
+    background: url('../images/placeimg_640_480_tech\ \(1\).jpg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    min-height: 500px;
+}
+
+h4 {
+    padding: 4px 6px 10px 6px;
+    background-color: paleturquoise;
+}
+
+table a:hover {
+    color: red;
 }
